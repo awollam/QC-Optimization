@@ -1,2 +1,2 @@
 # QC-Optimization
-Scripts to optimize and manage QC at GTAC@MGI
+Scripts to optimize and manage QC workflow at GTAC@MGI
